@@ -17,7 +17,7 @@ export const LandingFooter = () => (
       {new Date().getFullYear()}. All rights reserved.
     </div>
     <div className="flex items-center gap-x-4 text-white">
-      {FOOTER_LINKS.map(link => (
+      {/* {FOOTER_LINKS.map(link => (
         <Link
           key={link.link}
           href={link.link}
@@ -27,7 +27,7 @@ export const LandingFooter = () => (
         >
           <link.icon className="h-5 w-5" />
         </Link>
-      ))}
+      ))} */}
     </div>
   </nav>
 )
