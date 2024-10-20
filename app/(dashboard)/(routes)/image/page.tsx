@@ -1086,7 +1086,7 @@ return (
         disabled={loading}
         className={` px-6 py-3 bg-blue-600 text-white  rounded-md shadow-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 ${loading ? "opacity-50 cursor-not-allowed" : "hover:bg-blue-700"}`}
       >
-        {loading ? "Generating..." : "Generiraj"}
+        {loading ? "Generiram, prosim počakajte ..." : "Generiraj"}
       </button>
       </div>
     
