@@ -174,7 +174,7 @@ export default function ContactPage() {
             <Mail className="h-6 w-6 text-gray-400" />
             <div>
               <h3 className="text-lg font-semibold">Elektronski naslov</h3>
-              <p className="text-gray-600">info@opremime.ChatCompletionRequestMessage</p>
+              <p className="text-gray-600">info@opremime.com</p>
             </div>
           </div>
           <div className="flex items-center space-x-4">
