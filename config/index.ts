@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 
 export const siteConfig: Metadata = {
-  title: 'Opremi Me Generator Sobne Opreme.',
+  title: 'Opremi Me',
   description: '.',
   keywords: [
     'reactjs',

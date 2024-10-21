@@ -26,7 +26,7 @@ export const TESTIMONIALS = [
     image: '/users/brock-wegner.png',
     title: 'Študent',
     description:
-      'To orodje mi je naravnost všeč! Nisem dober v notranjem oblikovanju, toda ta aplikacija mi je to tako olajšala. Pravkar sem naložila sliko svoje spalnice in umetna inteligenca je predlagala osupljive modele, ki se jih sama nikoli ne bi spomnila. Neverjetni rezultati!',
+      'To orodje mi je naravnost všeč! Nisem dobera v notranjem oblikovanju, toda ta aplikacija mi je to tako olajšala. Pravkar sem naložila sliko svoje spalnice in umetna inteligenca je predlagala osupljive modele, ki se jih sama nikoli ne bi spomnila. Neverjetni rezultati!',
   },
   {
     name: 'Miha Zupan',

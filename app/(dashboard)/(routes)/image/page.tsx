@@ -1050,7 +1050,7 @@ return (
           type="text"
           value={prompt}
           onChange={(e) => setPrompt(e.target.value)}
-          placeholder="Opisi zelje oblikovanja"
+          placeholder="Opišite želje oblikovanja"
           className="mt-1 block w-full p-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
         />
       </div>
@@ -1059,7 +1059,7 @@ return (
  
       <div className="flex flex-col items-start justify-center p-4">
         <label className="cursor-pointer inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-md shadow-md hover:bg-blue-700 focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50 transition duration-300 ease-in-out">
-          Pripni sliko sobe
+          Pripnite sliko sobe
           <input
             type="file"
             onChange={handleImageChange}
