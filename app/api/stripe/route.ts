@@ -47,7 +47,7 @@ export async function GET() {
               name: 'Opremi Me Pro',
               description: 'Sobni Generator.',
             },
-            unit_amount: 2000, // €20
+            unit_amount: 100, // €1
             recurring: {
               interval: 'month',
             },
