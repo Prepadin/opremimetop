@@ -48,7 +48,7 @@
 // }
 
 
-import { auth } from "@clerk/nextjs";
+import { auth } from "@clerk/nextjs/server";
 import { NextRequest, NextResponse } from "next/server";
 import { checkApiLimit, increaseApiLimit } from "@/lib/api-limit";
 import { checkSubscription, increaseSubscription, checkApiSubscription } from "@/lib/subscription";
