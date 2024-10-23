@@ -7,7 +7,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { TESTIMONIALS } from '@/constants'
 
 export const LandingContent = () => (
-  <div className="px-10 pb-20">
+  <div className="px-10 pb-20 py-20">
     <h2 className="text-center text-4xl text-white font-extrabold mb-10">
     Prisluhnite našim uporabnikom
     </h2>

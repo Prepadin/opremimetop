@@ -1057,11 +1057,11 @@ return (
       </div>
       <div>
         <p>Primer:</p>
-    <p className="block text-sm font-medium text-gray-700 ">Elegantna dnevna soba, ki zajema sodobno estetiko sredi stoletja, v središču ima starinsko mizico iz tikovine, ki jo dopolnjuje klasična sončna ura na steni in udobna preproga pod nogami, ki ustvarja toplo in vabljivo vzdušje. </p>
+    {/* <p className="block text-sm font-medium text-gray-700 ">Elegantna dnevna soba, ki zajema sodobno estetiko sredi stoletja, v središču ima starinsko mizico iz tikovine, ki jo dopolnjuje klasična sončna ura na steni in udobna preproga pod nogami, ki ustvarja toplo in vabljivo vzdušje. </p> */}
     <p  className="block text-sm font-medium text-gray-700 ">Elegantno opremljena spalnica v slogu Art Deco z veliko zakonsko posteljo z geometrijsko posteljnino in zrcalno nočno omarico, ki odraža razkošje sobe. Umetniška dela, navdihnjena z Art Deco, dodajo pridih glamurja.</p>
-    <p  className="block text-sm font-medium text-gray-700 ">Udobna jedilnica, ki zajema bistvo rustikalnega šarma s trdno leseno kmečko mizo v svojem jedru, obdano z mešanico neusklajenih stolov. Starinska omara služi kot izjava, vzdušje pa toplo osvetljuje vrsta žarnic, ki visijo s stropa.</p> 
+    {/* <p  className="block text-sm font-medium text-gray-700 ">Udobna jedilnica, ki zajema bistvo rustikalnega šarma s trdno leseno kmečko mizo v svojem jedru, obdano z mešanico neusklajenih stolov. Starinska omara služi kot izjava, vzdušje pa toplo osvetljuje vrsta žarnic, ki visijo s stropa.</p> 
     <p  className="block text-sm font-medium text-gray-700 ">Glamurozna glavna spalnica v slogu Hollywood Regency, ki se ponaša s plišastim vzglavjem, zrcalnim pohištvom, ki odraža eleganco, razkošnimi tkaninami v bogatih teksturah in razkošnimi zlatimi poudarki za pridih razkošja.</p>
-    <p  className="block text-sm font-medium text-gray-700 ">Živahna dnevna soba s tropsko temo, skupaj z udobnim pohištvom iz ratana, velikimi listnatimi rastlinami, ki prinašajo zunanjost, svetlimi blazinami, ki dodajajo barve, in bambusovimi žaluzijami za nadzor naravne svetlobe.</p>
+    <p  className="block text-sm font-medium text-gray-700 ">Živahna dnevna soba s tropsko temo, skupaj z udobnim pohištvom iz ratana, velikimi listnatimi rastlinami, ki prinašajo zunanjost, svetlimi blazinami, ki dodajajo barve, in bambusovimi žaluzijami za nadzor naravne svetlobe.</p> */}
     
 </div>
       {/* <div className="flex flex-col items-center justify-center p-4"> */}
