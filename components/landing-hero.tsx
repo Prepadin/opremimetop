@@ -15,7 +15,23 @@ export const LandingHero = () => {
 
   return (
     <>
-    
+     <head>
+      <Script
+        strategy='lazyOnload'
+        src={`https://www.googletagmanager.com/gtag/js?id=G-97B0VJG041`}
+      />
+
+      <Script id='' strategy='lazyOnload'>
+        {`
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-97B0VJG041', {
+              page_path: window.location.pathname,
+              });
+          `}
+      </Script>
+      </head>
     <div className="text-white font-bold py-32 text-center space-y-5">
       <div className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl space-y-5 font-extrabold">
         <h1>Opremi Svoj Sanjski Dom</h1>
