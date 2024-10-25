@@ -19,7 +19,7 @@ export default function ImagePage() {
 
   
 
-  const handleDrop = (event) => {
+  const handleDrop = (event: React.DragEvent<HTMLDivElement>) => {
     event.preventDefault();
     const file = event.dataTransfer.files[0];
     if (file && file.type.startsWith('image/')) {
