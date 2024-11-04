@@ -1,8 +1,12 @@
 # *
 User-agent: *
-Allow: /
+#Allow: /
+Disallow : /sign-up
+Disallow : /sign-in
 
-
+# Host
+Host: https://opremime.com
 
 # Sitemaps
-Sitemap: https://opremime.com/sitemap.xml
+Sitemap:https://opremime.com/sitemap.xml
+
